@@ -1,2 +1,2 @@
 # shiyemin.github.io
-I am Yemin Shi. 
+Homepage of Yemin Shi.
